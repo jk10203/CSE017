@@ -1,0 +1,6 @@
+Lily Anderson|6102275415|landerson@gmail.com|cash|200.0|510
+Andrew Karlson|4844132880|aka220@ulm.edu|credit|850.0|visa|490231225716|03/2025|210|212
+Alexandra Newman|6102274100|anewman@gmail.com|cash|1600.0|215
+Ali Baird|2025142703|alb219@uuu.edu|credit|2450.0|280220320110|visa|08/2022|327
+Sarah Gonzales|2024457177|sg119@cat.com|cash|1000.0|401|511
+Marie Charles|6109912376|mcharles@gmail.com|credit|880.0|master|888888777777|05/2023|411|102
